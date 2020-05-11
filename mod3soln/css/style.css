@@ -21,12 +21,13 @@ h2{
   margin-bottom: 15px;
 }
 
-
+.row{
+  margin: 8px;
+}
 #chicken{
   background-color: #572845;
   color: white;
   padding: 20px 20px 20px 20px;
-  margin: 40px 30px !important;
 }
 #header-nav {
   background-color: #EC8B5E;
@@ -111,7 +112,7 @@ h2{
   }
 
   #collapsable-nav a { 
-    background-color: #61122f;
+    background-color: #572845;
     font-size: 1.2em;
   }
 
